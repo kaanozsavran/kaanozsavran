@@ -5,7 +5,7 @@
 - 🎓 Final-year Computer Engineering student.
 - 🌱 I’m currently learning React, .NET
 
----
+
 
 ##  My Skill Set
 
@@ -17,7 +17,7 @@
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) |  |
 
----
+
 
 ## Connect With Me
 
