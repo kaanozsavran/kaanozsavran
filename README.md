@@ -1,6 +1,6 @@
 # Hi there, I'm Kaan Ozsavran! 👋
-A passionate Fullstack Developer from Turkey
-## About Me
+
+## A passionate Fullstack Developer from Turkey
 - 🎓 Final-year Computer Engineering student.
 - 🌱 I’m currently learning React, .NET
 
