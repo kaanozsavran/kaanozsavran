@@ -28,7 +28,7 @@
       </a>
     </td>
     <td align="left" width="200" height="150">
-      <strong>Backend</strong><br>
+      <strong>Backend</strong><br> <br> <br>
       <a href="https://dotnet.microsoft.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60"/>
       </a>
