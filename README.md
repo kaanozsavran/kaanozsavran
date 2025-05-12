@@ -54,6 +54,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
   </a>
 </td>
+   <td align="left" width="200" height="150" valign="top">
+      <strong>Others</strong><br>
+      <a href="https://httpd.apache.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60" height="60"/>
+      </a>
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60"/>
+      </a>
+    </td>
   </tr>
 </table>
 
