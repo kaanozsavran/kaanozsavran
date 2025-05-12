@@ -57,8 +57,8 @@
    <td align="left" width="200" height="150" valign="top">
       <strong>Others</strong><br>
       <a href="https://httpd.apache.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60" height="60"/>
-      </a>
+    <img src="https://www.apache.org/img/support-apache.jpg" width="120" height="40"/>
+  </a>
       <a href="https://www.postman.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60"/>
       </a>
