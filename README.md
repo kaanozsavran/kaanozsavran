@@ -70,3 +70,4 @@
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaanozsavran/)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaanozsavran)
