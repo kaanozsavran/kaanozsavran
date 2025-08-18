@@ -2,7 +2,7 @@
  A passionate Fullstack Developer from Turkey.
 
  
-- 🎓 Final-year Computer Engineering student.
+- 🎓 Computer Engineer
 - 🌱 I’m currently learning .NET, React.
 
 
