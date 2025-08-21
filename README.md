@@ -4,6 +4,7 @@
  
 - 🎓 Computer Engineer
 - 🌱 I’m currently learning .NET, React.
+- 🚀 Always eager to explore new technologies and build scalable, efficient solutions.
 
 
 
