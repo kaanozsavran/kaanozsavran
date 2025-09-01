@@ -32,9 +32,9 @@
       <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
       </a>
-     <a href="https://ui.shadcn.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/shadcn-ui@0.9.5/+esm" width="60" height="60"/>
-      </a>
+     <a href="https://ui.shadcn.com/" target="_blank" class="border rounded-lg p-2 hover:shadow-lg transition">
+  <img src="https://ui.shadcn.com/favicon.ico" width="60" height="60" alt="shadcn/ui">
+</a>
     </td>
     <td align="left" width="200" height="150">
       <strong>Backend</strong><br> 
