@@ -32,6 +32,9 @@
       <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
       </a>
+     <a href="https://mui.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60" alt="Material UI (MUI)" />
+</a>
      <a href="https://ui.shadcn.com/" target="_blank" class="border rounded-lg p-2 hover:shadow-lg transition">
   <img src="https://ui.shadcn.com/favicon.ico" width="60" height="60" alt="shadcn/ui">
 </a>
