@@ -2,8 +2,8 @@
  A passionate Fullstack Developer from Turkey.
 
  
-- 🎓 Computer Engineer
-- 🌱 I’m currently learning .NET, React.
+- 🎓 I am a Computer Engineer with a strong focus on fullstack technologies.
+- 🌱 I’m currently learning ASP .NET, React.
 - 🚀 Always eager to explore new technologies and build scalable, efficient solutions.
 
 
