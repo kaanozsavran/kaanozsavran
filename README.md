@@ -2,8 +2,8 @@
  A passionate Fullstack Developer from Turkey.
 
  
+- 🔭 I am currently working as a Junior Software Developer at the Ministry of Treasury and Finance.
 - 🎓 I am a Computer Engineer with a strong focus on fullstack technologies.
-- 🌱 I’m currently learning ASP .NET, React.
 - 🚀 Always eager to explore new technologies and build scalable, efficient solutions.
 
 
