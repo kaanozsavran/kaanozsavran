@@ -47,6 +47,9 @@
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
       </a>
+     <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+  </a>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60"/>
       </a>
