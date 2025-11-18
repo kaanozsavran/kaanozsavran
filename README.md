@@ -35,6 +35,10 @@
      <a href="https://mui.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="60" height="60" alt="Material UI (MUI)" />
 </a>
+     <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+         width="60" height="60" alt="Tailwind CSS"/>
+  </a>
      <a href="https://ui.shadcn.com/" target="_blank" class="border rounded-lg p-2 hover:shadow-lg transition">
   <img src="https://ui.shadcn.com/favicon.ico" width="60" height="60" alt="shadcn/ui">
 </a>
