@@ -36,13 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 3px;"/>
 </a>
 <a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" style="margin: 3px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" style="margin: 3px;"/>
 </a>
 <a href="https://mui.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" style="margin: 3px;"/>
 </a>
 <a href="https://ui.shadcn.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/android-chrome-512x512.png" width="50" height="50" style="margin: 3px; border-radius: 10px;"/>
+  <img src="https://ui.shadcn.com/favicon.ico" width="50" height="50" style="margin: 3px; border-radius: 10px;"/>
 </a>
 </td>
 
