@@ -56,6 +56,15 @@
       <a href="https://dotnet.microsoft.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
+     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="margin: 3px;"/>
+            </a> 
+     <a href="https://www.java.com/" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="margin: 3px;"/>
+            </a>
+            <a href="https://spring.io/" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" style="margin: 3px;" />
+            </a>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
@@ -64,7 +73,10 @@
       </a>
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
+      </a>   
+     <a href="https://www.sqlite.org/" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" style="margin: 3px;"/>
+            </a>
     </td>
   </tr>
 
