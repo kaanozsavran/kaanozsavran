@@ -16,43 +16,36 @@
     <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
       Frontend
     </td>
-    <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://getbootstrap.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
+   <td style="border: none; padding: 5px 10px; vertical-align: top;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin: 3px;"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin: 3px;"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 3px;"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" style="margin: 3px;"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 3px;"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 3px;"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" style="margin: 3px;"/>
+</a>
+<a href="https://mui.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" style="margin: 3px;"/>
+</a>
+<a href="https://ui.shadcn.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/android-chrome-512x512.png" width="50" height="50" style="margin: 3px; border-radius: 10px;"/>
+</a>
+</td>
 
-      <!-- TypeScript -->
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-
-      <!-- Tailwind CSS -->
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-
-      <!-- Material UI -->
-      <a href="https://mui.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-
-      <!-- shadcn/ui -->
-      <a href="https://ui.shadcn.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/android-chrome-512x512.png" width="50" height="50" style="margin: 3px; border-radius: 10px;"/>
-      </a>
-    </td>
   </tr>
 
   <tr>
