@@ -65,12 +65,6 @@
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
-      <a href="https://nodejs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://www.rabbitmq.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
     </td>
   </tr>
 
@@ -81,13 +75,6 @@
     <td style="border: none; padding: 5px 10px; vertical-align: top;">
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://github.com/features/actions" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://azure.microsoft.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
     </td>
   </tr>
 
@@ -99,18 +86,14 @@
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://kotlinlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
       <a href="https://spark.apache.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
+      </a>     
+     <a href="https://www.rabbitmq.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a> <a href="https://www.postman.com/" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" style="margin: 3px;"/>
+            </a>
     </td>
   </tr>
 </table>
