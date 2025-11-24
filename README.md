@@ -32,8 +32,29 @@
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
+
+      <!-- TypeScript -->
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
+
+      <!-- Tailwind CSS -->
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
+
+      <!-- Material UI -->
+      <a href="https://mui.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
+
+      <!-- shadcn/ui -->
+      <a href="https://ui.shadcn.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/android-chrome-512x512.png" width="50" height="50" style="margin: 3px; border-radius: 10px;"/>
+      </a>
     </td>
   </tr>
+
   <tr>
     <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
       Backend
@@ -59,6 +80,7 @@
       </a>
     </td>
   </tr>
+
   <tr>
     <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
       DevOps & Cloud
@@ -75,6 +97,7 @@
       </a>
     </td>
   </tr>
+
   <tr>
     <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
       Others
@@ -83,7 +106,7 @@
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
-       <a href="https://www.python.org/" target="_blank">
+      <a href="https://www.python.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
       <a href="https://kotlinlang.org/" target="_blank">
@@ -98,6 +121,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
